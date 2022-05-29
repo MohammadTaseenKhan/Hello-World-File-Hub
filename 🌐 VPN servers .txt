@@ -1,0 +1,21 @@
+PPTP (point to point tunneling) is widely used since it is supported across all Microsoft Windows, Linux, Apple, Mobile and PS3 platforms. It is however easier to block and might not work if your ISP or government blocks the protocol. In that case you need to use OpenVPN, which is impossible to detect or block.
+
+1️⃣PL226.vpnbook.com
+
+2️⃣DE4.vpnbook.com
+
+3️⃣us1.vpnbook.com (US VPN - optimized for fast web surfing; no p2p downloading)
+
+4️⃣us2.vpnbook.com (US VPN - optimized for fast web surfing; no p2p downloading)
+
+5️⃣ca222.vpnbook.com (Canada VPN - optimized for fast web surfing; no p2p downloading)
+
+6️⃣ca198.vpnbook.com (Canada VPN - optimized for fast web surfing; no p2p downloading)
+
+7️⃣fr1.vpnbook.com (France VPN - optimized for fast web surfing; no p2p downloading)
+
+8️⃣fr8.vpnbook.com (France VPN - optimized for fast web surfing; no p2p downloading)
+
+💥Username: vpnbook
+
+💥Password: tvd23GH
